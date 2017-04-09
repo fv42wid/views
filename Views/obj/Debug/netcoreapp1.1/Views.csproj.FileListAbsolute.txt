@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Views\Views\bin\Debug\netcoreapp1.1\Views.deps.json
+C:\Users\Administrator\Desktop\Views\Views\bin\Debug\netcoreapp1.1\Views.runtimeconfig.json
+C:\Users\Administrator\Desktop\Views\Views\bin\Debug\netcoreapp1.1\Views.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Views\Views\bin\Debug\netcoreapp1.1\Views.dll
+C:\Users\Administrator\Desktop\Views\Views\obj\Debug\netcoreapp1.1\Views.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Views\Views\obj\Debug\netcoreapp1.1\Views.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Views\Views\bin\Debug\netcoreapp1.1\Views.pdb
+C:\Users\Administrator\Desktop\Views\Views\obj\Debug\netcoreapp1.1\Views.dll
+C:\Users\Administrator\Desktop\Views\Views\obj\Debug\netcoreapp1.1\Views.pdb
